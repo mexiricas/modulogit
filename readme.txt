@@ -29,4 +29,7 @@ git status
  mixed parecido com o soft porem ainda sem o add -A
  hard apaga todo o commit 
 
+
+git commit para um repositorio na nuvem 
+→ 
  
